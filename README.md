@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on web solutions (Top Secret)
+- 🌱 I’m currently learning Next Js
+- 💬 Ask me about Javascript
+
+<a href="https://app.daily.dev/pulidoo13"><img src="https://api.daily.dev/devcards/02a157f72769425aa565e72e553aea02.png?r=jj0" width="400" alt="Alfredo Pulido's Dev Card"/></a>
+
 <!--
 **pulidoo13/pulidoo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
